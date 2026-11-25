@@ -37,18 +37,4 @@ if user_input:
 
 
 
-# with st.chat_message('user'):
-#     st.text('Hi')
-
-# with st.chat_message("assistant"):
-#     st.text('How can i help u ?')
-
-# with st.chat_message('user'):
-#     st.text('My name is Biswajit.')
-
-# user_input = st.chat_input('type here..')
-
-# if user_input:
-#     with st.chat_message('user'):
-#         st.text(user_input)
 
